@@ -5,6 +5,8 @@ using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;
 
+// Script modified by Shea Paris from Kerihobo.com
+
 public class ButtonObjectSelection : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
 {
 
